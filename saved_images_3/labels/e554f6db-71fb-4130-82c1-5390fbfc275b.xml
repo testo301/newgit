@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saved_images_3</folder>
+	<filename>e554f6db-71fb-4130-82c1-5390fbfc275b.png</filename>
+	<path>/home/ubuntu/image_labeling/newgit/saved_images_3/e554f6db-71fb-4130-82c1-5390fbfc275b.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>640</xmin>
+			<ymin>168</ymin>
+			<xmax>667</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
